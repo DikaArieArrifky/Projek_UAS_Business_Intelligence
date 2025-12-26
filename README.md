@@ -15,3 +15,5 @@ Tomi Martino Affandi | 26
 Star Schema 
 <img width="980" height="746" alt="image" src="https://github.com/user-attachments/assets/3ac8f66b-69c4-4653-947a-d2c81bf4fad9" />
 
+Link visualisasi
+https://lookerstudio.google.com/reporting/21792892-4a20-44ea-8f29-6c32b5aea51e/page/p_xgw72quxyd
